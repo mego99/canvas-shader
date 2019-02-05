@@ -3,9 +3,21 @@ body {
 	width: 100vw;
 	height: 100vh;
 	overflow: hidden;
+	background-color: #6EEEFF;
 }
 canvas {
 	overflow: hidden;
 	width: 100vw;
 	height: 100vh;
+}
+h1 {
+	color: white;
+	font-family: sans-serif;
+	font-size: 8em;
+	margin: auto;
+	text-align: center;
+	position: fixed;
+	width: 100vw;
+	top:40vh;
+	z-index: 1000;
 }
